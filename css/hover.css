@@ -1,0 +1,11 @@
+.bottom-down {
+　background: mediumseagreen;
+　padding: 8px 16px;
+　color: white;
+　box-shadow: 0 5px black;
+}
+
+.bottom-down:hover {
+　box-shadow: none;
+　transform: translate(0, 5px);
+}
